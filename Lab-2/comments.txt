@@ -1,0 +1,36 @@
+Group 3: 3.5 pts
+
+- Identification of incorrect or incomplete objects participating in the interaction (e.g., br_plus, o1, o2, o3, br_smallerThan, o4).
+- Does not illustrate the time span of the objects.
+
+
+Group 14: 3 pts
+
+- Identification of incorrect or incomplete objects participating in the interaction (e.g., br_plus, o1, o2, o3, br_smallerThan, o4).
+- Lack of creation or return notions.
+- Does not illustrate the time span of the objects.
+
+Group 17: 3.5 pts
+
+- Identification of incorrect or incomplete objects participating in the interaction(e.g., br_plus, o1, o2, o3, br_smallerThan, o4).
+- Does not illustrate the time span of the objects.
+
+Group 24: 3 pts
+
+- Identification of incorrect or incomplete objects participating in the interaction (e.g., br_plus, o1, o2, o3, br_smallerThan, o4).
+- Lack of creation or return notions.
+- Does not illustrate the time span of the objects.
+
+Group 27: 3.5 pts
+
+- Identification of incorrect or incomplete objects participating in the interaction (e.g., br_plus, o1, o2, o3, br_smallerThan, o4).
+- Lack of create notions.
+- Does not illustrate the time span of the objects.
+
+
+Group 32: 2.5 pts
+
+- Identification of incorrect or incomplete objects participating in the interaction (e.g., br_plus, o1, o2, o3, br_smallerThan, o4).
+- Incomplete lifeline and missing execution specifications (an object should have multiple execution specifications in its lifeline)
+- Lack of return notions.
+- Does not illustrate the time span of the objects.

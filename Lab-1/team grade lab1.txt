@@ -1,0 +1,145 @@
+Group 1: 5
+
+Group 2: 4.5
+
+Your notions of inheritance, composition, and aggregation are indistinguishable.
+
+Group 3: 4
+
+The main function cannot be treated as a class, as instantiation of a main function is not a meaningful concept. Similarly, symbol_priority also does not lend itself to being conceptualized as a class, as instantiation in this context lacks justification. 
+
+Group 4: 4
+
+The notions of the associations (inheritance, composition, and aggregation) seem reasonable. However, your design doesn't seem to capture the original code's semantics effectively; the Keyboard and Display are not essential computation components in the calculator code. 
+
+Group 5: 3
+
+- You were reverse engineering the original procedural code.
+- Your notions of inheritance, composition, and aggregation are indistinguishable.
+
+Group 6: 5
+
+Group 7: 4
+
+It seems that you were reverse engineering the original procedural code. It is unclear how Numbers or operations would inherit ValueStorage. 
+
+Group 8: 5
+
+Very nice work
+
+
+Group 9: 5
+
+Very nice work
+
+Group 10: 5
+
+Nice work
+
+Group 11: 5
+
+Group 12: 5
+
+Group 13: 5
+
+Group 14: 3.5
+
+- A stack is a data structure and is not suitable for being conceptualized as a class in this context. For instance, defining an instance of a stack is not applicable in this scenario.
+
+- The inheritance notion is incorrect. ExpressionEvaluator and AdvancedExpressionEvaluator cannot inherit from each other. Inheritance implies a hierarchical relationship where a subclass inherits attributes and behaviors from a superclass, but in this case, a mutual inheritance between the mentioned classes is not feasible.
+
+Group 15: 5
+
+Good work
+
+Group 16: 5
+
+Group 17: 5
+
+Group 18: 5
+
+Group 19: 5
+
+Group 20: 4
+
+Add, Subtract, Multiply, Divide are instances instead of classes
+
+Group 21: 5
+
+Group 22:
+
+Group 23: 5
+
+Group 24: 5
+
+Group 25: 5
+
+Group 26: 4
+
+The classes you've designed appear to lack justification, possibly due to a lack of documentation. Clarification on the purpose and rationale behind certain choices is needed. For instance, what does SimpleExpression entail, and why is it treated as a class? Additionally, the role of Analyzer seems to be more of a specific functionality rather than an abstracted concept; elaboration on why it is designed as a class would be beneficial. Lastly, insights into the purpose and design principles behind the Term class would help in understanding the overall structure and intent of these classes. 
+
+
+Group 27: 5
+
+
+Group 28: 4.5
+
+It's more appropriate to consider addition, subtraction ... as instances rather than classes.
+
+Group 29: 2
+
+
+- It appears that you were reverse engineering the original code. The code elements, such as functions and variables, shouldn't be interpreted or justified as classes. 
+
+- There's a lack of appropriate notions presented, such as aggregation or composition. 
+
+
+Group 30: 5
+
+
+Group 31: 5
+
+
+Group 32: 3.5
+
+
+It appears that you were reverse-engineering the original procedural code. It is unclear how the main function could be conceptualized as a class, as it doesn't seem to represent a distinct object or instance (e.g., what would be an instance of a main?).
+
+Additionally, the justification for Math Operator inheriting from Main or the storage classes seems unjustifiable.
+
+
+Group 33: 3.5
+
+Inheritance concept is missing. The association between Storage and CalculatorEquation is unclear.
+
+Group 34: 4.5
+
+It's more appropriate to consider addition, subtraction ... as instances rather than classes.
+
+Group 35:  4.5
+
+It's more appropriate to consider addition, subtraction ... as instances rather than classes.
+
+Group 36: 5
+
+
+Group 37: 5
+
+Group 38: 5
+
+Group 39: 4.5
+
+It's more appropriate to consider addition, subtraction ... as instances rather than classes.
+
+
+Group 40: 
+
+Group 41: 5
+
+Group 42: 5
+
+Group 43: 5
+
+Group 44: 5
+
+
